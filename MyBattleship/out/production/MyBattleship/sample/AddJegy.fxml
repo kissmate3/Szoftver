@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Text?>
+
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="199.0" prefWidth="280.0" style="-fx-background-color: yellow;" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <Text strokeType="OUTSIDE" strokeWidth="0.0" text="Text" />
+      <Text layoutX="91.0" layoutY="27.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Adja meg a jegyet:" textAlignment="CENTER" />
+      <TextField layoutX="45.0" layoutY="64.0" prefHeight="26.0" prefWidth="38.0" />
+      <Text layoutX="14.0" layoutY="82.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Jegy:" />
+      <Text layoutX="14.0" layoutY="115.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Megjegyzes" />
+      <TextField layoutX="84.0" layoutY="98.0" prefHeight="26.0" prefWidth="183.0" />
+   </children>
+</AnchorPane>
